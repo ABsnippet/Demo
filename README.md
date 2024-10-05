@@ -1,2 +1,4 @@
 # Demo
-first repository
+first Git repository
+Author - AmitBande
+
